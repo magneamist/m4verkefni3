@@ -6,5 +6,4 @@ on main page there is a text that says "hey, bitch" and a button to change name.
 Amazing right?
 
 things to look at:
-./src/tsx
-./src/css
+folders tsx and css under src
